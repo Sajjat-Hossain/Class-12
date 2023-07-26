@@ -1,0 +1,33 @@
+h3 {
+    color: aqua;
+    font-size: 3em;
+    text-transform: capitalize;
+}
+
+h5 {
+    background: aqua;
+    padding: 10px 20px;
+    font-size: 1em;
+    line-height: 25px;
+}
+
+span {
+    display: block;
+    background: rebeccapurple;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+p {
+    display: block;
+    background: rgb(25, 22, 167);
+    color: #fff;
+    padding: 10px 20px;
+}
+
+h6 {
+    background: aqua;
+    padding: 10px 20px;
+    font-size: 1em;
+    line-height: 25px;
+}
